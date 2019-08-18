@@ -4,7 +4,8 @@
   "description": "creation of an rest api with nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
